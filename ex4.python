@@ -1,0 +1,3 @@
+current_file = open(a.txt)
+
+print (current_file.read())
